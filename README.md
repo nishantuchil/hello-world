@@ -1,2 +1,3 @@
 # hello-world
-sample first time test
+sample first time test.
+Just an amateur hobbyist.
